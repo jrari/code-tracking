@@ -2,9 +2,9 @@
   "date": "2025-07-13",
   "projects": {
     "telebot": {
-      "totalLinesAdded": 9049,
+      "totalLinesAdded": 9678,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 37,
+      "totalActiveTime": 40,
       "files": {
         "c:\\Users\\gylri\\OneDrive\\Desktop\\telebot\\dashboard.py": [
           {
@@ -362,6 +362,36 @@
             "fileName": "c:\\Users\\gylri\\OneDrive\\Desktop\\telebot\\solana_sniper_simple.py",
             "fileType": ".py",
             "linesAdded": 609,
+            "linesRemoved": 0,
+            "projectName": "telebot",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "c:\\Users\\gylri\\OneDrive\\Desktop\\telebot\\solana_sniper_aggressive.py": [
+          {
+            "timestamp": "2025-07-13T09:09:20.078Z",
+            "fileName": "c:\\Users\\gylri\\OneDrive\\Desktop\\telebot\\solana_sniper_aggressive.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "telebot",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-07-13T09:09:20.972Z",
+            "fileName": "c:\\Users\\gylri\\OneDrive\\Desktop\\telebot\\solana_sniper_aggressive.py",
+            "fileType": ".py",
+            "linesAdded": 628,
             "linesRemoved": 0,
             "projectName": "telebot",
             "content": {
