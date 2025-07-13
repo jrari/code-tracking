@@ -3,8 +3,8 @@
   "projects": {
     "telebot": {
       "totalLinesAdded": 17524,
-      "totalLinesRemoved": 5,
-      "totalActiveTime": 89,
+      "totalLinesRemoved": 922,
+      "totalActiveTime": 90,
       "files": {
         "c:\\Users\\gylri\\OneDrive\\Desktop\\telebot\\dashboard.py": [
           {
@@ -782,6 +782,20 @@
             },
             "duration": 1,
             "language": "py"
+          },
+          {
+            "timestamp": "2025-07-13T11:40:32.957Z",
+            "fileName": "c:\\Users\\gylri\\OneDrive\\Desktop\\telebot\\solana_momentum_trader.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 427,
+            "projectName": "telebot",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
           }
         ],
         "c:\\Users\\gylri\\OneDrive\\Desktop\\telebot\\config.py": [
@@ -919,6 +933,20 @@
             "fileType": ".py",
             "linesAdded": 53,
             "linesRemoved": 0,
+            "projectName": "telebot",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-07-13T11:39:33.444Z",
+            "fileName": "c:\\Users\\gylri\\OneDrive\\Desktop\\telebot\\solana_ultra_aggressive.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 490,
             "projectName": "telebot",
             "content": {
               "added": [],
