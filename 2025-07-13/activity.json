@@ -1,0 +1,81 @@
+{
+  "date": "2025-07-13",
+  "projects": {
+    "telebot": {
+      "totalLinesAdded": 1227,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 3,
+      "files": {
+        "c:\\Users\\gylri\\OneDrive\\Desktop\\telebot\\dashboard.py": [
+          {
+            "timestamp": "2025-07-13T08:28:44.237Z",
+            "fileName": "c:\\Users\\gylri\\OneDrive\\Desktop\\telebot\\dashboard.py",
+            "fileType": ".py",
+            "linesAdded": 278,
+            "linesRemoved": 0,
+            "projectName": "telebot",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          }
+        ],
+        "c:\\Users\\gylri\\OneDrive\\Desktop\\telebot\\ULTIMATE_SOLANA_TRADING_BOT.py": [
+          {
+            "timestamp": "2025-07-13T08:30:38.498Z",
+            "fileName": "c:\\Users\\gylri\\OneDrive\\Desktop\\telebot\\ULTIMATE_SOLANA_TRADING_BOT.py",
+            "fileType": ".py",
+            "linesAdded": 681,
+            "linesRemoved": 0,
+            "projectName": "telebot",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "py"
+          }
+        ],
+        "c:\\Users\\gylri\\OneDrive\\Desktop\\telebot\\token_discovery.py": [
+          {
+            "timestamp": "2025-07-13T08:31:28.428Z",
+            "fileName": "c:\\Users\\gylri\\OneDrive\\Desktop\\telebot\\token_discovery.py",
+            "fileType": ".py",
+            "linesAdded": 268,
+            "linesRemoved": 0,
+            "projectName": "telebot",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ]
+      },
+      "languageStats": {
+        "py": 3
+      },
+      "changeFrequency": {
+        "1": 3
+      },
+      "topFiles": [
+        "c:\\Users\\gylri\\OneDrive\\Desktop\\telebot\\dashboard.py",
+        "c:\\Users\\gylri\\OneDrive\\Desktop\\telebot\\ULTIMATE_SOLANA_TRADING_BOT.py",
+        "c:\\Users\\gylri\\OneDrive\\Desktop\\telebot\\token_discovery.py"
+      ],
+      "averageChangeSize": 409
+    }
+  },
+  "totalActiveTime": 3,
+  "totalProjects": 1,
+  "totalFiles": 3,
+  "mostActiveHours": [
+    1
+  ],
+  "mostUsedLanguages": [
+    "py"
+  ]
+}
