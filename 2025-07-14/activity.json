@@ -3,7 +3,7 @@
   "projects": {
     "telebot": {
       "totalLinesAdded": 20584,
-      "totalLinesRemoved": 900,
+      "totalLinesRemoved": 913,
       "totalActiveTime": 56,
       "files": {
         "c:\\Users\\gylri\\OneDrive\\Desktop\\telebot\\solana_sniper_production.py": [
@@ -883,6 +883,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-07-14T13:53:04.181Z",
+            "fileName": "c:\\Users\\gylri\\OneDrive\\Desktop\\telebot\\DUAL_WALLET_ADAPTIVE_BOT.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 13,
+            "projectName": "telebot",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "py"
           }
         ]
