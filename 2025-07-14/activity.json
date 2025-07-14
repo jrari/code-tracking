@@ -2,7 +2,7 @@
   "date": "2025-07-14",
   "projects": {
     "telebot": {
-      "totalLinesAdded": 17212,
+      "totalLinesAdded": 17836,
       "totalLinesRemoved": 900,
       "totalActiveTime": 48,
       "files": {
@@ -749,6 +749,22 @@
               "removed": []
             },
             "duration": 1,
+            "language": "py"
+          }
+        ],
+        "c:\\Users\\gylri\\OneDrive\\Desktop\\telebot\\aggressive_profit_bot.py": [
+          {
+            "timestamp": "2025-07-14T13:10:27.962Z",
+            "fileName": "c:\\Users\\gylri\\OneDrive\\Desktop\\telebot\\aggressive_profit_bot.py",
+            "fileType": ".py",
+            "linesAdded": 624,
+            "linesRemoved": 0,
+            "projectName": "telebot",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "py"
           }
         ]
