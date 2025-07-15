@@ -1,0 +1,75 @@
+{
+  "date": "2025-07-15",
+  "projects": {
+    "telebot": {
+      "totalLinesAdded": 76,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 2,
+      "files": {
+        "c:\\Users\\gylri\\OneDrive\\Desktop\\telebot\\PROFITABLE_WORKING_BOT_FINAL.py": [
+          {
+            "timestamp": "2025-07-15T08:35:40.393Z",
+            "fileName": "c:\\Users\\gylri\\OneDrive\\Desktop\\telebot\\PROFITABLE_WORKING_BOT_FINAL.py",
+            "fileType": ".py",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "telebot",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-07-15T08:35:53.708Z",
+            "fileName": "c:\\Users\\gylri\\OneDrive\\Desktop\\telebot\\PROFITABLE_WORKING_BOT_FINAL.py",
+            "fileType": ".py",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "telebot",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-07-15T08:36:18.412Z",
+            "fileName": "c:\\Users\\gylri\\OneDrive\\Desktop\\telebot\\PROFITABLE_WORKING_BOT_FINAL.py",
+            "fileType": ".py",
+            "linesAdded": 69,
+            "linesRemoved": 0,
+            "projectName": "telebot",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ]
+      },
+      "languageStats": {
+        "py": 2
+      },
+      "changeFrequency": {
+        "1": 2
+      },
+      "topFiles": [
+        "c:\\Users\\gylri\\OneDrive\\Desktop\\telebot\\PROFITABLE_WORKING_BOT_FINAL.py"
+      ],
+      "averageChangeSize": 25.333333333333332
+    }
+  },
+  "totalActiveTime": 2,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    1
+  ],
+  "mostUsedLanguages": [
+    "py"
+  ]
+}
