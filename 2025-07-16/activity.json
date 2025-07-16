@@ -1,0 +1,47 @@
+{
+  "date": "2025-07-16",
+  "projects": {
+    "telebot": {
+      "totalLinesAdded": 6,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Users\\gylri\\OneDrive\\Desktop\\telebot\\.vscode\\settings.json": [
+          {
+            "timestamp": "2025-07-16T20:28:24.952Z",
+            "fileName": "c:\\Users\\gylri\\OneDrive\\Desktop\\telebot\\.vscode\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "telebot",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 0
+      },
+      "changeFrequency": {
+        "13": 0
+      },
+      "topFiles": [
+        "c:\\Users\\gylri\\OneDrive\\Desktop\\telebot\\.vscode\\settings.json"
+      ],
+      "averageChangeSize": 6
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    13
+  ],
+  "mostUsedLanguages": [
+    "json"
+  ]
+}
