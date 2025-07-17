@@ -2,7 +2,7 @@
   "date": "2025-07-16",
   "projects": {
     "telebot": {
-      "totalLinesAdded": 997,
+      "totalLinesAdded": 1003,
       "totalLinesRemoved": 80,
       "totalActiveTime": 1,
       "files": {
@@ -50,6 +50,22 @@
             },
             "duration": 1,
             "language": "py"
+          }
+        ],
+        "c:\\Users\\gylri\\OneDrive\\Desktop\\telebot\\.cursor\\rules\\dont.mdc": [
+          {
+            "timestamp": "2025-07-17T01:42:24.099Z",
+            "fileName": "c:\\Users\\gylri\\OneDrive\\Desktop\\telebot\\.cursor\\rules\\dont.mdc",
+            "fileType": ".mdc",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "telebot",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "mdc"
           }
         ]
       },
