@@ -2,9 +2,9 @@
   "date": "2025-07-16",
   "projects": {
     "telebot": {
-      "totalLinesAdded": 4248,
+      "totalLinesAdded": 6001,
       "totalLinesRemoved": 948,
-      "totalActiveTime": 19,
+      "totalActiveTime": 26,
       "files": {
         "c:\\Users\\gylri\\OneDrive\\Desktop\\telebot\\.vscode\\settings.json": [
           {
@@ -274,6 +274,66 @@
             "fileName": "c:\\Users\\gylri\\OneDrive\\Desktop\\telebot\\WORKING_QUICKNODE_BOT.py",
             "fileType": ".py",
             "linesAdded": 855,
+            "linesRemoved": 0,
+            "projectName": "telebot",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "c:\\Users\\gylri\\OneDrive\\Desktop\\telebot\\SIMPLE_WORKING_BOT.py": [
+          {
+            "timestamp": "2025-07-17T02:29:17.302Z",
+            "fileName": "c:\\Users\\gylri\\OneDrive\\Desktop\\telebot\\SIMPLE_WORKING_BOT.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "telebot",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-07-17T02:29:18.237Z",
+            "fileName": "c:\\Users\\gylri\\OneDrive\\Desktop\\telebot\\SIMPLE_WORKING_BOT.py",
+            "fileType": ".py",
+            "linesAdded": 853,
+            "linesRemoved": 0,
+            "projectName": "telebot",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "c:\\Users\\gylri\\OneDrive\\Desktop\\telebot\\aggressive_profit_bot.py": [
+          {
+            "timestamp": "2025-07-17T02:31:17.690Z",
+            "fileName": "c:\\Users\\gylri\\OneDrive\\Desktop\\telebot\\aggressive_profit_bot.py",
+            "fileType": ".py",
+            "linesAdded": 898,
+            "linesRemoved": 0,
+            "projectName": "telebot",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-07-17T02:31:46.977Z",
+            "fileName": "c:\\Users\\gylri\\OneDrive\\Desktop\\telebot\\aggressive_profit_bot.py",
+            "fileType": ".py",
+            "linesAdded": 1,
             "linesRemoved": 0,
             "projectName": "telebot",
             "content": {
